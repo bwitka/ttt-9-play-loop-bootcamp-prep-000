@@ -37,5 +37,6 @@ end
 
 # Define your play method below
 def play(board)
-  
+  tic_tac_toe_turn = 0 
+  while 
 end
